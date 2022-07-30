@@ -1,0 +1,7 @@
+.intro__list-item_description {
+  display: inline-block;
+  font-size: 12px;
+  line-height: 18px;
+  font-weight: bold;
+  margin: 0;
+}

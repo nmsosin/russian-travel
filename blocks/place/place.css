@@ -1,0 +1,10 @@
+.place {
+  padding-top: 80px;
+  display: grid;
+  grid-template-columns: minmax(1fr, 460px) 1fr;
+  grid-template-rows: min-content min-content;
+  gap: 40px 48px;
+  grid-template-areas: 
+    "title link"
+    "image text "
+}

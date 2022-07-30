@@ -1,0 +1,7 @@
+.intro__list-item_number {
+  display: inline-block;
+  font-size: 12px;
+  line-height: 18px;
+  font-weight: normal;
+  margin: 0;
+}

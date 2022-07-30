@@ -1,0 +1,4 @@
+.place__image {
+  max-height: 460px;
+  grid-area: image;
+}
