@@ -1,3 +1,6 @@
 .place__description {
   grid-area: text;
+  display: flex;
+  flex-direction: column;
+  gap: 26px;
 }
