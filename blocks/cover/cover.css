@@ -5,3 +5,9 @@
   background-image: url(../../images/baikal_railway.jpg);
   background-size: cover;
 }
+
+@media screen and (max-width: 1024px) {
+  .cover {
+    height: 640px;
+  }
+}

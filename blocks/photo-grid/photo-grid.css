@@ -3,7 +3,13 @@
   margin: 0 auto;
   padding-top: 92px;
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  grid-template-rows: repeat(3, 1fr);
+  grid-template-columns: repeat(auto-fit, minmax(284px,1fr));
   gap: 16px;
+}
+
+@media screen and (max-width: 1024px) {
+  .photo-grid {
+    padding: 92px 48px 0;
+    gap: 14px;
+  }
 }
