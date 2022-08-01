@@ -6,3 +6,15 @@
   align-items: flex-end;
   padding: 28px 48px 0px;
 }
+
+@media screen and (max-width: 768px) {
+  .header {
+    padding: 28px 24px 0;
+  }
+}
+
+@media screen and (max-width: 3208px) {
+  .header {
+    padding: 16px 16px 0;
+  }
+}
