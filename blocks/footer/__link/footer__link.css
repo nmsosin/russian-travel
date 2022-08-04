@@ -4,6 +4,7 @@
   font-weight: normal;
   text-decoration: none;
   color: #fff;
+  transition: opacity .3s ease-in 0s;
 }
 
 .footer__link:hover {

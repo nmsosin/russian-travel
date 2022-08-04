@@ -21,5 +21,6 @@
 @media all and (max-width: 320px) {
   .cover {
     height: 200px;
+    margin-top: 66px;
   }
 }
